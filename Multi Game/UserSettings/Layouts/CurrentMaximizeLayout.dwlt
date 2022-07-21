@@ -63,7 +63,7 @@ MonoBehaviour:
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
-  m_EnterPlayModeBehavior: 0
+  m_EnterPlayModeBehavior: 1
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -225,9 +225,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 226f0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 32cdffff32ceffff18d0fffffcd4ffff80d5ffffe6d8ffff76daffffbee9ffff08eaffff1aebffff56ebffff8eebffffd0ebffff08ecffffe0f9ffff30fbffffc45e0000da6500004070000050720000
+      m_SelectedIDs: 68900000
+      m_LastClickedID: 36968
+      m_ExpandedIDs: 342fffffc42fffffe830ffff3a67ffffb66affff707cffffac7cffff9499ffff10afffff46afffff7eafffffbaaffffff2afffff28b0ffff64b0ffffa2b0ffffdab0ffff38f7ffff70f7ffffa6f7ffffdef7ffff3cf8ffff7af8ffffb4f8ffffecf8ffff58f9ffff30fbfffffe66000032670000327a0000f47b0000127c0000327c0000467c00006e7c00008c7c0000408000004a800000748600009a8c00004e8e00003a900000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -339,8 +339,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -100, y: -25.600006}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: -100, y: -25.600006}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -361,7 +361,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 24.8}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-scene-view-toolbar
@@ -416,7 +416,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 0, y: 24.8}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Camera
@@ -531,9 +531,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.2007494, y: -0.037177563, z: 3.024609}
+    m_Target: {x: 7.4598427, y: 0.022187233, z: -1.1971165}
     speed: 2
-    m_Value: {x: -2.2007494, y: -0.037177563, z: 3.024609}
+    m_Value: {x: 7.4598427, y: 0.022187233, z: -1.1971165}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -580,13 +580,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.118691586, y: 0.8327569, z: -0.19613516, w: -0.50394434}
+    m_Target: {x: 0.10132062, y: 0.69069976, z: -0.09867969, w: 0.7091839}
     speed: 2
-    m_Value: {x: -0.118691556, y: 0.8327567, z: -0.19613512, w: -0.5039442}
+    m_Value: {x: 0.10132062, y: 0.69069976, z: -0.09867969, w: 0.7091839}
   m_Size:
-    m_Target: 6.9187393
+    m_Target: 7.5578985
     speed: 2
-    m_Value: 6.9187393
+    m_Value: 7.5578985
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -691,10 +691,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 124.600006}
-    m_SelectedIDs: 4c5e0000
-    m_LastClickedID: 24140
-    m_ExpandedIDs: 00000000325e0000345e000000ca9a3b
+    scrollPos: {x: 0, y: 160.00122}
+    m_SelectedIDs: b6600000
+    m_LastClickedID: 24758
+    m_ExpandedIDs: 0000000072600000746000002e70000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -722,7 +722,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000325e0000345e000000ca9a3b
+    m_ExpandedIDs: 0000000072600000746000002e70000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -747,10 +747,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 226f0000
-    m_LastClickedInstanceID: 28450
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_SelectedInstanceIDs: 68900000
+    m_LastClickedInstanceID: 36968
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000000000006e700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
